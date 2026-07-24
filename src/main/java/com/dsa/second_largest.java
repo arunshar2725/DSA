@@ -1,4 +1,4 @@
-package com.telusko;
+package com.dsa;
 
 public class second_largest {
     public static void main(String[] args) {
