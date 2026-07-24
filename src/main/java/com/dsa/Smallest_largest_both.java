@@ -1,6 +1,6 @@
 package com.dsa;
 
-public class both {
+public class Smallest_largest_both {
 
     public static void main(String[] args) {
         int arr[] = {23,5,2,1,3,533,12,-4,-32,43};
